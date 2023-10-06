@@ -6,3 +6,6 @@ const ingredients = [
   'Herbs',
   'Condiments',
 ];
+
+const ingredientsList = document.getElementById("ingredients");
+console.log(ingredientsList)
